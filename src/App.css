@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  background-color: #B5E48C;
+}
+
+main {
+  padding: 1.5rem 0.5rem;
+  background-color: #B5E48C;
+}
